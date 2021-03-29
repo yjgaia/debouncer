@@ -1,0 +1,8 @@
+{
+    "name": "@hanul/debouncer",
+    "author": "Sim Young Jae",
+    "homepage": "https://github.com/Hanul/debouncer",
+    "version": "0.0.1",
+    "types": "./Debouncer.d.ts",
+    "main": "./Debouncer.js"
+}
